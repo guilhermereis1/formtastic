@@ -27,7 +27,7 @@ f.input :date, mask: { alias: 'datetime', inputformat: 'dd/mm/yyyy' }
 ```
 
 ## Maintainer
-[Dhyego Fernando](https://github.com/guilhermereis1)
+[Guilherme Reis](https://github.com/guilhermereis1)
 
 ## Credits
 
